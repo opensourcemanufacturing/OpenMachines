@@ -6,4 +6,6 @@ The objective of this github organization is to challenge the industry status qu
 
 We believe in free proven knowlage with proper source and respective [kudos](https://en.wikipedia.org/wiki/Kudos), design exploration by iteration, [serendipity](https://en.wikipedia.org/wiki/Serendipity), reuse promotion and propagation of great design ideas. 
 
-["Don't Reinvent The Wheel, Unless You Plan on Learning More About Wheels"](https://blog.codinghorror.com/dont-reinvent-the-wheel-unless-you-plan-on-learning-more-about-wheels/)
+MOTTO: ["Don't Reinvent The Wheel, Unless You Plan on Learning More About Wheels"](https://blog.codinghorror.com/dont-reinvent-the-wheel-unless-you-plan-on-learning-more-about-wheels/)
+
+----
