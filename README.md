@@ -14,6 +14,6 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 ## SLA
 
-### Form1+
+### Formlabs Form1+
 
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
