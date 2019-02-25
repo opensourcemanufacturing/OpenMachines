@@ -22,9 +22,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 ------------------------------------------------------------
 ### Laser Printers
 
-
-
-#### Formlabs Form1+
+*Formlabs Form1+*
 
 - [Resin Curve Mesuring on the Form](https://www.instructables.com/id/Making-a-Working-Curve-Measurement-on-the-Form1/)
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
@@ -32,6 +30,6 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 ------------------------------------------------------------
 ### LCD Pinters
 
-#### Anycubic Photon
+*Anycubic Photon*
 
 - [Photon Community Hub](www.photonsters.org)
