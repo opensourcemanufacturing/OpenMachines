@@ -8,7 +8,7 @@ We believe in free proven knowlage with proper source and respective [kudos](htt
 
 MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/dont-reinvent-the-wheel-unless-you-plan-on-learning-more-about-wheels/)
 
-----
+------------------------------------------------------------
 
 # 3D Printing
 
@@ -16,8 +16,8 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 *RESIN EXPOSURE THEORY*
 - [What is and how to take a working curve Mesurement](https://www.instructables.com/id/How-to-Take-a-Working-Curve-Measurement-and-Create/)
-- []
 
+------------------------------------------------------------
 ### Laser Printers
 
 - [GO-NOGO Resin tolerance Testing model](https://www.thingiverse.com/thing:3425486)
@@ -27,6 +27,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [Resin Curve Mesuring on the Form](https://www.instructables.com/id/Making-a-Working-Curve-Measurement-on-the-Form1/)
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
 
+------------------------------------------------------------
 ### LCD Pinters
 
 #### Anycubic Photon
