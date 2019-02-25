@@ -12,7 +12,11 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 # 3D Printing
 
-## SLA
+## SLA (Resin Printing)
+
+*RESIN EXPOSURE THEORY*
+- [What is and how to take a working curve Mesurement](https://www.instructables.com/id/How-to-Take-a-Working-Curve-Measurement-and-Create/)
+- []
 
 ### Laser Printers
 
@@ -20,4 +24,11 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 #### Formlabs Form1+
 
+- [Resin Curve Mesuring on the Form](https://www.instructables.com/id/Making-a-Working-Curve-Measurement-on-the-Form1/)
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
+
+### LCD Pinters
+
+#### Anycubic Photon
+
+- [Photon Community Hub](www.photonsters.org)
