@@ -25,6 +25,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 *Formlabs Form1+*
 
+- [Form 1+ Guide (Forum Post)](https://forum.formlabs.com/t/retro-form-1-guide/16904)
 - [Resin Curve Mesuring on the Form](https://www.instructables.com/id/Making-a-Working-Curve-Measurement-on-the-Form1/)
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
 
