@@ -20,7 +20,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 *RESIN CALIBRATION TOOLS*
 - [GO-NOGO Resin tolerance Testing model](https://www.thingiverse.com/thing:3425486)
 
-------------------------------------------------------------
+
 ### Laser Printers
 
 *Formlabs Form1+*
@@ -29,9 +29,26 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [Resin Curve Mesuring on the Form](https://www.instructables.com/id/Making-a-Working-Curve-Measurement-on-the-Form1/)
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
 
-------------------------------------------------------------
+
 ### LCD Pinters
 
 *Anycubic Photon*
 
 - [Photon Community Hub](www.photonsters.org)
+
+------------------------------------------------------------
+# 3D Scanning
+
+ToDo: http://www.altlab.org/d/m/x3msnake/knowlagebase/digitizing
+
+## Photogrametry
+
+- [OpenScan Photogrametry Project by Thomas Samoht](https://www.openscan.eu/?lang=en) - [Facebook Group](https://www.facebook.com/groups/142108429832711/)
+
+## Depth Mapping
+
+## Laser Scanning
+
+## Structured Light Scanning
+
+
