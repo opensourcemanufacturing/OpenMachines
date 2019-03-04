@@ -29,6 +29,11 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [Resin Curve Mesuring on the Form](https://www.instructables.com/id/Making-a-Working-Curve-Measurement-on-the-Form1/)
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
 
+*Peopoly Moai*
+
+*Pegasus Touch*
+
+- [JailBreak Firmware and potential source for open SLA Galvo controller](https://github.com/doobie42/OpenPegasus)
 
 ### LCD Pinters
 
