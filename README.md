@@ -31,6 +31,8 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 *Peopoly Moai*
 
+- [CAD Source Files](https://wiki.peopoly.net/doku.php?id=moai-design) - Vats, Panels, Tilt System and structure
+
 *Pegasus Touch*
 
 - [JailBreak Firmware and potential source for open SLA Galvo controller](https://github.com/doobie42/OpenPegasus)
