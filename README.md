@@ -28,6 +28,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [Form 1+ Guide (Forum Post)](https://forum.formlabs.com/t/retro-form-1-guide/16904)
 - [Resin Curve Mesuring on the Form](https://www.instructables.com/id/Making-a-Working-Curve-Measurement-on-the-Form1/)
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
+- [Vat alternatives for Form1](https://forum.formlabs.com/t/peopoly-moai-fep-vat-in-form1-1-without-mechanical-levelling/22369?u=x3msnake) + Tweaking the plate offset to any value you want without mechanical releveling
 
 *Peopoly Moai*
 
