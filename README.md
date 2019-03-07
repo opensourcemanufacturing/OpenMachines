@@ -62,5 +62,10 @@ ToDo: http://www.altlab.org/d/m/x3msnake/knowlagebase/digitizing
 ------------------------------------------------------------
 # CAD Software
 
-O - https://librecad.org/
+>>> OS: Open Source | FW: Freeware | CM: Comercial
 
+OS - https://librecad.org/
+OS - http://solvespace.com/index.pl
+OS - https://www.qcad.org/en/
+OS - https://github.com/xibyte/jsketcher
+FW - https://www.autodesk.com/campaigns/fusion-360-for-hobbyists
