@@ -62,7 +62,7 @@ ToDo: http://www.altlab.org/d/m/x3msnake/knowlagebase/digitizing
 ------------------------------------------------------------
 # CAD Software
 
->>> OS: Open Source | FW: Freeware | CM: Comercial
+> OS: Open Source | FW: Freeware | CM: Comercial
 
 OS - https://librecad.org/
 OS - http://solvespace.com/index.pl
