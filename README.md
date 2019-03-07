@@ -64,9 +64,22 @@ ToDo: http://www.altlab.org/d/m/x3msnake/knowlagebase/digitizing
 
 > OS: Open Source | FW: Freeware | CM: Comercial
 
+- OS - https://www.freecadweb.org/
+- OS - http://www.openscad.org/
 - OS - https://librecad.org/
 - OS - http://solvespace.com/index.pl
 - OS - https://www.qcad.org/en/
 - OS - https://github.com/xibyte/jsketcher
 - FW/CM - https://www.autodesk.com/campaigns/fusion-360-for-hobbyists
 - FW/CM - https://www.onshape.com/products/free
+
+------------------------------------------------------------
+# MODELLING / ANIMATION Software
+
+> OS: Open Source | FW: Freeware | CM: Comercial
+
+- OS - https://www.blender.org/
+- OS - https://www.bforartists.de/ (blender fork with better ui)
+- OS - https://abau.org/dilay/ (Clay Modelling)
+- OS - https://stephaneginier.com/sculptgl/ (Clay modelling online/offline)
+- FW - http://pixologic.com/sculptris/ (Clay Modelling)
