@@ -59,4 +59,8 @@ ToDo: http://www.altlab.org/d/m/x3msnake/knowlagebase/digitizing
 
 ## Structured Light Scanning
 
+------------------------------------------------------------
+# CAD Software
+
+O - https://librecad.org/
 
