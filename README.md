@@ -68,4 +68,5 @@ ToDo: http://www.altlab.org/d/m/x3msnake/knowlagebase/digitizing
 - OS - http://solvespace.com/index.pl
 - OS - https://www.qcad.org/en/
 - OS - https://github.com/xibyte/jsketcher
-- FW - https://www.autodesk.com/campaigns/fusion-360-for-hobbyists
+- FW/CM - https://www.autodesk.com/campaigns/fusion-360-for-hobbyists
+- FW/CM - https://www.onshape.com/products/free
