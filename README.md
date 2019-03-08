@@ -20,6 +20,9 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 *RESIN CALIBRATION TOOLS*
 - [GO-NOGO Resin tolerance Testing model](https://www.thingiverse.com/thing:3425486)
 
+*LCD / DLP Light Masking*
+- https://www.youtube.com/watch?v=YQwzc8kL0lE
+
 
 ### Laser Printers
 
