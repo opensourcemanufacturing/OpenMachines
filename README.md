@@ -36,6 +36,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 *Peopoly Moai*
 
 - [CAD Source Files](https://wiki.peopoly.net/doku.php?id=moai-design) - Vats, Panels, Tilt System and structure
+- [FEP Vat Fusion 360 File](https://a360.co/2EZiATj)
 
 *Pegasus Touch*
 
