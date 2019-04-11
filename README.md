@@ -76,6 +76,7 @@ ToDo: http://www.altlab.org/d/m/x3msnake/knowlagebase/digitizing
 - OS - https://github.com/xibyte/jsketcher
 - FW/CM - https://www.autodesk.com/campaigns/fusion-360-for-hobbyists
 - FW/CM - https://www.onshape.com/products/free
+- OS - [Open Multiformat 3D Model Viewer](http://www.open3mod.com/) - [full supported formats list here](http://assimp.sourceforge.net/main_features_formats.html)
 
 ------------------------------------------------------------
 # MODELLING / ANIMATION Software
