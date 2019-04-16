@@ -14,19 +14,19 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 ## SLA (Resin Printing)
 
-*RESIN EXPOSURE THEORY*
+#### RESIN EXPOSURE THEORY
 - [What is and how to take a working curve Mesurement](https://www.instructables.com/id/How-to-Take-a-Working-Curve-Measurement-and-Create/)
 
-*RESIN CALIBRATION TOOLS*
+#### RESIN CALIBRATION TOOLS
 - [GO-NOGO Resin tolerance Testing model](https://www.thingiverse.com/thing:3425486)
 
-*LCD / DLP Light Masking*
+#### LCD / DLP Light Masking
 - https://www.youtube.com/watch?v=YQwzc8kL0lE
 
 
 ### Laser Printers
 
-*Formlabs Form1+*
+#### Formlabs Form1+
 
 - [Form 1+ Guide (Forum Post)](https://forum.formlabs.com/t/retro-form-1-guide/16904)
 - [The Unofficial Form1 wiki](http://form1printer.pbworks.com/w/page/73436192/The%20Unofficial%20Form1%20wiki)
@@ -40,18 +40,18 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as a command line parameter, either running it from the command window, or by adding it into windows shortcut properties. This adds an extra menu to preform 
 
 
-*Peopoly Moai*
+#### Peopoly Moai
 
 - [CAD Source Files](https://wiki.peopoly.net/doku.php?id=moai-design) - Vats, Panels, Tilt System and structure
 - [FEP Vat Fusion 360 File](https://a360.co/2EZiATj)
 
-*Pegasus Touch*
+#### Pegasus Touch
 
 - [JailBreak Firmware and potential source for open SLA Galvo controller](https://github.com/doobie42/OpenPegasus)
 
 ### LCD Pinters
 
-*Anycubic Photon*
+#### Anycubic Photon
 
 - [Photon Community Hub](www.photonsters.org)
 
