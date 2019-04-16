@@ -35,6 +35,11 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [Vat alternatives for Form1](https://forum.formlabs.com/t/peopoly-moai-fep-vat-in-form1-1-without-mechanical-levelling/22369?u=x3msnake) + Tweaking the plate offset to any value you want without mechanical releveling
 - [Older Versions of Preform slicer](http://form1printer.pbworks.com/w/page/73473032/PreForm%20Tips%2C%20Tricks%2C%20and%20Version%20History?fbclid=IwAR3Lqit8WW5Hi2pzdmGExpFBITcG-LmejZf46HYJqN-EKS-17r2-xSBpCXY)
 
+![preform_diagnostics_mode](http://form1printer.pbworks.com/f/1393518844/laser_spot_test.jpg)
+
+Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as a command line parameter, either running it from the command window, or by adding it into windows shortcut properties. This adds an extra menu to preform 
+
+
 *Peopoly Moai*
 
 - [CAD Source Files](https://wiki.peopoly.net/doku.php?id=moai-design) - Vats, Panels, Tilt System and structure
