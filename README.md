@@ -95,3 +95,12 @@ ToDo: http://www.altlab.org/d/m/x3msnake/knowlagebase/digitizing
 - OS - https://abau.org/dilay/ (Clay Modelling)
 - OS - https://stephaneginier.com/sculptgl/ (Clay modelling online/offline)
 - FW - http://pixologic.com/sculptris/ (Clay Modelling)
+
+
+
+# Surface Finish
+
+[Anodizing 720 calculator with metric by Kreutz on CNC Zone] (https://www.cnczone.com/forums/mass-finishing-equipment-media-stratigies/155745-software.html)
+[OpenMachines Backup > 720RuleCalculatorRev001.zip](https://github.com/opensourcemanufacturing/OpenMachines/files/3101791/720RuleCalculatorRev001.zip)
+
+
