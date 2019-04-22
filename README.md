@@ -55,6 +55,10 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 
 - [Photon Community Hub](www.photonsters.org)
 
+### FDM Printers
+
+- https://marlin3dprintertool.se/
+
 ------------------------------------------------------------
 # 3D Scanning
 
