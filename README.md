@@ -55,6 +55,16 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 
 - [Photon Community Hub](www.photonsters.org)
 
+#### SparkMaker
+
+- https://github.com/bastirichter/Sparkmaker/blob/master/file_format.md
+- https://www.thingiverse.com/groups/sparkmaker/forums/general/topic:27837
+- https://github.com/bacintom/WowFileTools
+- https://github.com/Godzil/WoWTools
+- https://www.thingiverse.com/groups/sparkmaker
+- https://n0sr3v.github.io/SLAcer.js/
+
+
 ### FDM Printers
 
 - https://marlin3dprintertool.se/
