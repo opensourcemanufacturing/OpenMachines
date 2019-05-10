@@ -16,6 +16,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 #### RESIN EXPOSURE THEORY
 - [What is and how to take a working curve Mesurement](https://www.instructables.com/id/How-to-Take-a-Working-Curve-Measurement-and-Create/)
+- [Testing Resin Layer Heighs - Study (Moai)](https://forum.peopoly.net/t/in-search-for-the-perfect-layer-height/1956/19)
 
 #### RESIN CALIBRATION TOOLS
 - [GO-NOGO Resin tolerance Testing model](https://www.thingiverse.com/thing:3425486)
@@ -44,6 +45,7 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 
 - [CAD Source Files](https://wiki.peopoly.net/doku.php?id=moai-design) - Vats, Panels, Tilt System and structure
 - [FEP Vat Fusion 360 File](https://a360.co/2EZiATj)
+- [Testing Resin Layer Heighs - Study](https://forum.peopoly.net/t/in-search-for-the-perfect-layer-height/1956/19)
 
 #### Pegasus Touch
 
