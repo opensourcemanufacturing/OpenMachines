@@ -52,6 +52,7 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 
 - [JailBreak Firmware and potential source for open SLA Galvo controller](https://github.com/doobie42/OpenPegasus)
 - [FSL Pegasus Touch Support videos - Youtube](https://www.youtube.com/playlist?list=PLRhV54_kAGWTsPdzRNcGqUWNiridHccYr)
+- [Pegasus Calibration Sheet](https://github.com/doobie42/OpenPegasus/files/3299381/calibration_pattern.pdf)
 - [X3msnake's Pegasus Touch Photo Album](https://photos.app.goo.gl/jAxs5vE5puoAWkZZ8)
 
 ### LCD Pinters
