@@ -35,6 +35,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
 - [Vat alternatives for Form1](https://forum.formlabs.com/t/peopoly-moai-fep-vat-in-form1-1-without-mechanical-levelling/22369?u=x3msnake) + Tweaking the plate offset to any value you want without mechanical releveling
 - [Older Versions of Preform slicer](http://form1printer.pbworks.com/w/page/73473032/PreForm%20Tips%2C%20Tricks%2C%20and%20Version%20History?fbclid=IwAR3Lqit8WW5Hi2pzdmGExpFBITcG-LmejZf46HYJqN-EKS-17r2-xSBpCXY)
+- [X3msnake's Form1+ Photo Album](https://photos.app.goo.gl/cRBBhAM5fRQmBn516)
 
 ![preform_diagnostics_mode](http://form1printer.pbworks.com/f/1393518844/laser_spot_test.jpg)
 
@@ -50,12 +51,15 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 #### Pegasus Touch
 
 - [JailBreak Firmware and potential source for open SLA Galvo controller](https://github.com/doobie42/OpenPegasus)
+- [FSL Pegasus Touch Support videos - Youtube](https://www.youtube.com/playlist?list=PLRhV54_kAGWTsPdzRNcGqUWNiridHccYr)
+- [X3msnake's Pegasus Touch Photo Album](https://photos.app.goo.gl/jAxs5vE5puoAWkZZ8)
 
 ### LCD Pinters
 
 #### Anycubic Photon
 
 - [Photon Community Hub](www.photonsters.org)
+- [X3msnake's Photon Photo Album](https://photos.app.goo.gl/24FuZ97FUJk6An763)
 
 #### SparkMaker
 
