@@ -71,6 +71,9 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 - https://www.thingiverse.com/groups/sparkmaker
 - https://n0sr3v.github.io/SLAcer.js/
 
+#### Kelant S400
+- https://github.com/loneacoustic/kelants400
+- https://github.com/Kelant3D/Kelant-S400
 
 ### FDM Printers
 
