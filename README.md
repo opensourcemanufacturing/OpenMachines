@@ -26,6 +26,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 #### LCD / DLP Light Masking
 - https://www.youtube.com/watch?v=YQwzc8kL0lE
+- [The single point light falloff problem](http://robotsinthesun.org/dlp-printer-brightness-distribution/)
 
 
 ### Laser Printers
