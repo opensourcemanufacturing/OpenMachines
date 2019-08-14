@@ -18,6 +18,9 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [What is and how to take a working curve Mesurement](https://www.instructables.com/id/How-to-Take-a-Working-Curve-Measurement-and-Create/)
 - [Testing Resin Layer Heighs - Study (Moai)](https://forum.peopoly.net/t/in-search-for-the-perfect-layer-height/1956/19)
 
+#### TYPES OF RESIN PRINTERS
+- [MSLA, LASERSLA, DLP](https://theorthocosmos.com/laser-sla-vs-dlp-vs-masked-sla-3d-printing-technology-compared/)
+
 #### RESIN CALIBRATION TOOLS
 - [GO-NOGO Resin tolerance Testing model](https://www.thingiverse.com/thing:3425486)
 
