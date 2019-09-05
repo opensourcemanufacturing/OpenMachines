@@ -61,6 +61,10 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 
 ### LCD Pinters
 
+#### DIY OpenSource Kits 
+
+- [Makerbase MSLA (DLP)](https://github.com/makerbase-mks/Datasheet/blob/master/Chinese%20datasheet/MKS%20DLP%E4%B8%BB%E6%9D%BF%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf), [Github Project](https://github.com/makerbase-mks/MKS-DLP)
+
 #### Anycubic Photon
 
 - [Photon Community Hub](www.photonsters.org)
