@@ -70,6 +70,9 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 - [Photon Community Hub](www.photonsters.org)
 - [X3msnake's Photon Photo Album](https://photos.app.goo.gl/24FuZ97FUJk6An763)
 
+#### Nova3D Elfin
+- [Nova3D printers Chitubox 1.5+ plugin](https://github.com/opensourcemanufacturing/Nova3D-Elfin)
+
 #### SparkMaker
 
 - https://github.com/bastirichter/Sparkmaker/blob/master/file_format.md
