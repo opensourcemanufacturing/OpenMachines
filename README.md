@@ -17,17 +17,21 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 #### RESIN EXPOSURE THEORY
 - [What is and how to take a working curve Mesurement](https://www.instructables.com/id/How-to-Take-a-Working-Curve-Measurement-and-Create/)
 - [Testing Resin Layer Heighs - Study (Moai)](https://forum.peopoly.net/t/in-search-for-the-perfect-layer-height/1956/19)
+- [Anti-Aliasing AKA Subpixel Printing](https://hackaday.com/2016/07/26/get-subpixel-printing-with-a-dlp-3d-printer/)
+- [Variable height layer printing](https://www.instructables.com/id/Variable-Slicing-for-3D-Printing-on-Autodesk-Ember/)
+- [Microstructure Control in 3D Printing with Digital Light Processing](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13807)
+
 
 #### TYPES OF RESIN PRINTERS
-- [MSLA, LASERSLA, DLP](https://theorthocosmos.com/laser-sla-vs-dlp-vs-masked-sla-3d-printing-technology-compared/)
+- [Differences between: MSLA, LASERSLA, DLP](https://theorthocosmos.com/laser-sla-vs-dlp-vs-masked-sla-3d-printing-technology-compared/)
 
 #### RESIN CALIBRATION TOOLS
 - [GO-NOGO Resin tolerance Testing model](https://www.thingiverse.com/thing:3425486)
+- [Resin Exposure Finder for CBDDLP based printers](https://github.com/altLab/photon-resin-calibration)
 
 #### LCD / DLP Light Masking
-- https://www.youtube.com/watch?v=YQwzc8kL0lE
 - [The single point light falloff problem](http://robotsinthesun.org/dlp-printer-brightness-distribution/)
-
+- [DLP 3D Printer Grayscale Mask compensation tool (OpenSource)](https://www.youtube.com/watch?v=YQwzc8kL0lE)
 
 ### Laser Printers
 
