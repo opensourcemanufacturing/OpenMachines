@@ -75,8 +75,14 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 - [X3msnake's Photon Photo Album](https://photos.app.goo.gl/24FuZ97FUJk6An763)
 
 #### Nova3D Elfin
+
 - [Nova3D Elfin Knowledgebase](https://github.com/opensourcemanufacturing/Nova3D-Elfin)
 - [Chitubox Plugin](https://github.com/opensourcemanufacturing/Nova3D-Elfin-Chitubox-Plugin)
+
+#### Phrozen Sonic Mini
+
+- [Printer Review & R&D Photo album](https://www.facebook.com/permalink.php?story_fbid=10158387611698680&id=651553679)*(x3msnake)*
+- [3D printable Vat (thinguiverse)](https://www.thingiverse.com/thing:4269287)*(LilAtomicX10)*
 
 #### SparkMaker
 
