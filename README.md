@@ -47,6 +47,10 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [Even More Versions of Preform Slicer](https://drive.google.com/drive/folders/1k1C6QDv6CbEVsz6t-EJ6ZldKd1dDOsOs?usp=sharing)
 - [X3msnake's Form1+ Photo Album](https://photos.app.goo.gl/cRBBhAM5fRQmBn516)
 - [lavachemist's FDM Printable FEP Vat (for Moai or Form1/1+)](https://grabcad.com/library/peopoly-moai-fep-vat-fdm-printed-1)
+- [Cleaning galvo mirrors](https://drive.google.com/file/d/1OTlYEJEhUNQy2icWgix25pufBiY5hfss/view?usp=sharing)
+- [OpenFL Presentation Slides(pdf)](https://drive.google.com/file/d/103EEdEtRmRZBrON2qWw3zj79ZxmcAH9d/view?usp=sharing)
+- [Make your own resin Vat for SLA 3D printer Tutorial](https://www.youtube.com/watch?v=RHTgHzDQbSY)
+
 
 ![preform_diagnostics_mode](http://form1printer.pbworks.com/f/1393518844/laser_spot_test.jpg)
 
