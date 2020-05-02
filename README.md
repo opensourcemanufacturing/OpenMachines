@@ -44,7 +44,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
 - [Vat alternatives for Form1](https://forum.formlabs.com/t/peopoly-moai-fep-vat-in-form1-1-without-mechanical-levelling/22369?u=x3msnake) + Tweaking the plate offset to any value you want without mechanical releveling
 - Older Versions of Preform slicer: [[link_1]](http://form1printer.pbworks.com/w/page/73473032/PreForm%20Tips%2C%20Tricks%2C%20and%20Version%20History?fbclid=IwAR3Lqit8WW5Hi2pzdmGExpFBITcG-LmejZf46HYJqN-EKS-17r2-xSBpCXY) [[link_2]](https://forum.formlabs.com/t/preform-older-versions/9686)
-- [Even More Versions of Preform Slicer:](https://drive.google.com/drive/folders/1k1C6QDv6CbEVsz6t-EJ6ZldKd1dDOsOs?usp=sharing)
+- [Even More Versions of Preform Slicer](https://drive.google.com/drive/folders/1k1C6QDv6CbEVsz6t-EJ6ZldKd1dDOsOs?usp=sharing)
 - [X3msnake's Form1+ Photo Album](https://photos.app.goo.gl/cRBBhAM5fRQmBn516)
 - [lavachemist's FDM Printable FEP Vat (for Moai or Form1/1+)](https://grabcad.com/library/peopoly-moai-fep-vat-fdm-printed-1)
 
