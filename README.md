@@ -48,6 +48,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 *Vat Options*
 - [Vat alternatives for Form1](https://forum.formlabs.com/t/peopoly-moai-fep-vat-in-form1-1-without-mechanical-levelling/22369?u=x3msnake) + Tweaking the plate offset to any value you want without mechanical releveling
 - [Make your own resin Vat for SLA 3D printer Tutorial (YouTube)](https://www.youtube.com/watch?v=RHTgHzDQbSY)
+- [Replace PDMS on SLA/DLP 3D Printer Resin Vat (YouTube)](https://www.youtube.com/watch?v=EGx6IRry8A4)
 - [lavachemist's FDM Printable FEP Vat (for Moai or Form1/1+)](https://grabcad.com/library/peopoly-moai-fep-vat-fdm-printed-1)
 
 *OpenFL*
