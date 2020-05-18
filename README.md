@@ -55,6 +55,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
 - [OpenFL Presentation Slides(pdf)](https://drive.google.com/file/d/103EEdEtRmRZBrON2qWw3zj79ZxmcAH9d/view?usp=sharing)
 - [Form1+ MIDI (YouTube)](https://www.youtube.com/watch?v=B47mw2BhGRU)
+- [Form1+ OpenFL Script Example (YouTube)](https://www.youtube.com/watch?v=y5U8yBGLMaA)
 
 ![preform_diagnostics_mode](http://form1printer.pbworks.com/f/1393518844/laser_spot_test.jpg)
 
