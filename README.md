@@ -59,6 +59,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 *Other Useful F1/1+ Hacking Links*
 - [CTC Riverside (F1+ Clone) Hacking](https://groups.google.com/forum/#!topic/ctc3dprinters/PbFQm_7dXcs%5B1-25%5D)
+- [CTC Riverside (F1+ Clone) F1+ Firmware](https://void.in.ua/ctc/)
 
 ![preform_diagnostics_mode](http://form1printer.pbworks.com/f/1393518844/laser_spot_test.jpg)
 
