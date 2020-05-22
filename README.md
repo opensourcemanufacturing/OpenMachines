@@ -44,6 +44,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [Even More Versions of Preform Slicer](https://drive.google.com/drive/folders/1k1C6QDv6CbEVsz6t-EJ6ZldKd1dDOsOs?usp=sharing)
 - [X3msnake's Form1+ Photo Album](https://photos.app.goo.gl/cRBBhAM5fRQmBn516)
 - [Cleaning galvo mirrors(pdf)](https://drive.google.com/file/d/1OTlYEJEhUNQy2icWgix25pufBiY5hfss/view?usp=sharing)
+- [bunnie studios: Formlabs Form1+ Teardown](https://www.bunniestudios.com/blog/?p=3110)
 
 *Vat Options*
 - [Vat alternatives for Form1](https://forum.formlabs.com/t/peopoly-moai-fep-vat-in-form1-1-without-mechanical-levelling/22369?u=x3msnake) + Tweaking the plate offset to any value you want without mechanical releveling
