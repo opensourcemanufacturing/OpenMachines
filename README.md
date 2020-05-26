@@ -80,6 +80,10 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 - [Pegasus Calibration Sheet](https://github.com/doobie42/OpenPegasus/files/3299381/calibration_pattern.pdf)
 - [X3msnake's Pegasus Touch Photo Album](https://photos.app.goo.gl/jAxs5vE5puoAWkZZ8)
 
+### DIY Galvos
+
+- [smoothieboard based galvo controller](https://www.reddit.com/r/3Dprinting/comments/fh69dk/i_modified_smoothieware_to_add_support_for_using/)
+
 ### LCD Pinters
 
 #### DIY OpenSource Kits 
