@@ -83,6 +83,7 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 ### DIY Galvos
 
 - [smoothieboard based galvo controller](https://www.reddit.com/r/3Dprinting/comments/fh69dk/i_modified_smoothieware_to_add_support_for_using/)
+- [LASER GALVO CONTROL VIA MICROCONTROLLER’S DAC](https://hackaday.com/2018/02/15/laser-galvo-control-via-microcontrollers-dac/)
 
 ### LCD Pinters
 
