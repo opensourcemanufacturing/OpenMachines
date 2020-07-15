@@ -86,7 +86,11 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 - [LASER GALVO CONTROL VIA MICROCONTROLLER’S DAC](https://hackaday.com/2018/02/15/laser-galvo-control-via-microcontrollers-dac/)
 - [DIY Step/DIR LASER Galvo Controller](https://www.instructables.com/id/DIY-STEPDIR-LASER-GALVO-CONTROLLER/)
 
-### LCD Pinters
+### SLS Printers
+
+- [RepRap OpenSLS project](https://reprap.org/wiki/OpenSLS)
+
+### LCD (MSLA) Printers
 
 #### DIY OpenSource Kits 
 
