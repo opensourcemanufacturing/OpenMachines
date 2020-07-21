@@ -46,11 +46,12 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [Cleaning galvo mirrors(pdf)](https://drive.google.com/file/d/1OTlYEJEhUNQy2icWgix25pufBiY5hfss/view?usp=sharing)
 - [bunnie studios: Formlabs Form1 Teardown](https://www.bunniestudios.com/blog/?p=3110)
 
-*Vat Options*
+*Vat and Plate Options*
 - [Vat alternatives for Form1](https://forum.formlabs.com/t/peopoly-moai-fep-vat-in-form1-1-without-mechanical-levelling/22369?u=x3msnake) + Tweaking the plate offset to any value you want without mechanical releveling
 - [Make your own resin Vat for SLA 3D printer Tutorial (YouTube)](https://www.youtube.com/watch?v=RHTgHzDQbSY)
 - [Replace PDMS on SLA/DLP 3D Printer Resin Vat (YouTube)](https://www.youtube.com/watch?v=EGx6IRry8A4)
-- [lavachemist's FDM Printable FEP Vat (for Moai or Form1/1+)](https://grabcad.com/library/peopoly-moai-fep-vat-fdm-printed-1)
+- [Lavachemist's FDM Printable FEP Vat (for Moai or Form1/1+)](https://grabcad.com/library/peopoly-moai-fep-vat-fdm-printed-1)
+- [Robert Silver's printable "FarmLads" plate](https://www.thingiverse.com/thing:3450124)
 
 *OpenFL*
 - [OpenFL Community Fork](https://github.com/opensourcemanufacturing/OpenFL)
