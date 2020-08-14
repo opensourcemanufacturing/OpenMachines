@@ -88,6 +88,7 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 - [smoothieboard based galvo controller](https://www.reddit.com/r/3Dprinting/comments/fh69dk/i_modified_smoothieware_to_add_support_for_using/)
 - [LASER GALVO CONTROL VIA MICROCONTROLLER’S DAC](https://hackaday.com/2018/02/15/laser-galvo-control-via-microcontrollers-dac/)
 - [DIY Step/DIR LASER Galvo Controller](https://www.instructables.com/id/DIY-STEPDIR-LASER-GALVO-CONTROLLER/)
+- [ESP32 based galvo controller](https://github.com/yaqwsx/LaserProjector), [PhotoAlbum](https://photos.app.goo.gl/dS4prWMFbEbLmHYb6),*Jan Mrazek*
 
 ### SLS Printers
 
