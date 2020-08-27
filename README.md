@@ -69,6 +69,7 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 - [CTC Riverside (F1+ Clone) Hacking](https://groups.google.com/forum/#!topic/ctc3dprinters/PbFQm_7dXcs%5B1-25%5D)
 - [CTC Riverside (F1+ Clone) F1+ Firmware](https://void.in.ua/ctc/)
 - [X3msnake's curated form1 repair and research Youtube list](https://www.youtube.com/playlist?list=PLEvmlp-nq1Q5455ymvTnFzlUb6OeKd5W_)
+- [Lavachemist's Form 1+ Photo Album](https://photos.app.goo.gl/kXZQfpBu2ewGfdXo8)
 
 ![preform_diagnostics_mode](http://form1printer.pbworks.com/f/1393518844/laser_spot_test.jpg)
 
