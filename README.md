@@ -10,6 +10,11 @@ MOTTO: ["Don't Reinvent The Wheel, Unless..."](https://blog.codinghorror.com/don
 
 ------------------------------------------------------------
 
+# Hardware Hacking
+
+## Wiring and Electronics Connectors
+-[DIRTY CABLES: What’s in that sample pile?](http://dangerousprototypes.com/blog/2017/06/22/dirty-cables-whats-in-that-pile/?fbclid=IwAR2FyimWXRUo0WVsxBaev23v7ZjsVXRl_BOKzyou40fQb_DTst1_XKd49IY)
+
 # 3D Printing
 
 ## SLA (Resin Printing)
@@ -89,6 +94,7 @@ Preform has a "diagnostic" mode which can be accessed by adding  -diagnostic as 
 - [LASER GALVO CONTROL VIA MICROCONTROLLER’S DAC](https://hackaday.com/2018/02/15/laser-galvo-control-via-microcontrollers-dac/)
 - [DIY Step/DIR LASER Galvo Controller](https://www.instructables.com/id/DIY-STEPDIR-LASER-GALVO-CONTROLLER/)
 - [ESP32 based galvo controller](https://github.com/yaqwsx/LaserProjector), [PhotoAlbum](https://photos.app.goo.gl/dS4prWMFbEbLmHYb6) ,*Jan Mrazek*
+- [Inside the Closed Loop Laser Beam Stearing Galvanometer (YouTube)](https://www.youtube.com/watch?v=HIBH55cbfLM&list=WL&index=38&t=0s)
 
 ### SLS Printers
 
